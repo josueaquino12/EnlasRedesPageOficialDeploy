@@ -1,0 +1,118 @@
+.flexRight{ 
+    margin-right: 10px !important;
+}
+
+.navDism{
+
+    height: 20px;
+}
+
+.navGround{
+  height: 80px;
+}
+
+body{
+
+    background: url("../img/fondoBody.jpeg");
+    background-attachment: fixed;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+  
+  }
+  
+  .flex-container > div {
+    
+ 
+    margin: 10px;
+    text-align: center;
+   
+  }
+
+
+
+.paddingT{
+    padding: 5px 10px 5px;
+}
+
+.fluid{ 
+    margin-left: 10% !important;   
+    width: 80% !important ;
+    margin-right: 10% !important; 
+}
+
+
+.d-flex{
+    display: flex;
+    flex-flow: nowrap;
+}
+
+.d-hijo{
+    margin-left: 10px;
+    flex: 1 1 auto;
+}
+
+.d-hijo2{
+    margin-right: 10px;
+    flex: 1 1 auto;
+}
+
+
+.nav-link{
+    color: white;
+    transition: color 1s !important;
+}
+
+.nav-link:hover {
+    color: grey;
+}
+
+.redesSoc {
+   color: #a30ba8;
+    
+  }
+  
+.redesSoc:hover {
+   color: #4db6ac;
+    
+  }
+@media all and (max-width: 800px) {
+    
+    .d-flex{
+        flex-direction: column;
+    }
+
+
+    .flex-container {
+       flex-direction: column;
+      
+      }
+
+    .fluid{ 
+        margin-left: 5% !important;   
+        width: 90% !important ;
+        margin-right: 5% !important; 
+    }
+
+
+    .d-hijo{
+    margin-left: 10% !important;   
+    width: 80% !important ;
+    margin-right: 10% !important; 
+    }
+    
+    .d-hijo2{
+        margin-left: 10% !important;   
+        width: 80% !important ;
+        margin-right: 10% !important; 
+    }
+    
+    .modEncResponsive{
+
+        width: 250px;
+    }
+    
+  }

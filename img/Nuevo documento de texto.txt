@@ -1,0 +1,15 @@
+<div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h1 class="header center " style="color: #09929d;"> <b>Campaña contra el CyberBullying</b></h1>
+        <div class="row center">
+          <h5 class="header col s12 light" style="color: white;"><b>Estamos para ayudarte</b></h5>
+        </div>
+        <div class="row center">
+          <a href="#more" id="download-button" class="scrollspy btn" style="background-color:#a30ba8"></i>
+            <i class="fa fa-arrow-circle-o-down left" aria-hidden="true"></i>Mas información</a>
+        </div>
+        <br><br>
+
+      </div>
+    </div>

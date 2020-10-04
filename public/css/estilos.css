@@ -79,6 +79,13 @@ body{
    color: #4db6ac;
     
   }
+
+  
+.marginSide{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
 @media all and (max-width: 800px) {
     
     .d-flex{
@@ -114,5 +121,7 @@ body{
 
         width: 250px;
     }
+
+    
     
   }
